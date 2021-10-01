@@ -1,12 +1,12 @@
 # Site
-name: 'Sheroz Samatov'
-description: 'Welcome! This is my personal blog. In this blog I document my journey as a beginner front-end developer, share my insights and experiences, lessons I've learnt, mistakes and general advice to beginner developers about programming languages, frameworks and tech stacks. At the moment I am learning Javascript, Shopify and Liquid in order to start my freelancing career. You may find articles about these technologies or even freelancing.'
+name: 'Mundana'
+description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/'
-disqus: 'demowebsite'
+baseurl: ''
+disqus: ''
 email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: ''
 
 include: ["_pages"]
 permalink: /:title/
