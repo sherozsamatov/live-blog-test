@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    sheroz:
       name:           Sheroz
       site:           https://www.sherozsamatov.com
       avatar:         /assets/images/avatar1.jpg
