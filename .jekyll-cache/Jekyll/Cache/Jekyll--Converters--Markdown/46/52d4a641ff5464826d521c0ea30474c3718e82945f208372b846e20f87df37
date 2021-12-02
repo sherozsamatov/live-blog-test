@@ -1,4 +1,4 @@
-I"Ã<div class="container">
+I"É<div class="container">
     
 
     
@@ -9,12 +9,12 @@
     
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="">
-    <div class="topfirstimage" style="background-image: url( /); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <a href="/">
+    <div class="topfirstimage" style="background-image: url( //); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href=""></a>
+    <a class="text-dark" href="/"></a>
     </h2>
     <p class="excerpt">
         
@@ -39,7 +39,7 @@
                                 
                 <div>
                     <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href=""></a>
+                    <a class="text-dark" href="/"></a>
                     </h2>
                     <small class="d-block text-muted">
                         In <span class="catlist">
@@ -56,7 +56,7 @@
                                 
                 <div>
                     <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href=""></a>
+                    <a class="text-dark" href="/"></a>
                     </h2>
                     <small class="d-block text-muted">
                         In <span class="catlist">
@@ -73,7 +73,7 @@
                                 
                 <div>
                     <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href=""></a>
+                    <a class="text-dark" href="/"></a>
                     </h2>
                     <small class="d-block text-muted">
                         In <span class="catlist">

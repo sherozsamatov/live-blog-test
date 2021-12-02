@@ -2,7 +2,7 @@
 layout: post
 title:  "Here is where the page title will appear on the page"
 author: sheroz
-categories: [ test, html, css, featured ]
+categories: [ test, html, css, featured, sticky ]
 image: assets/images/home.jpg
 tags: [learn, tutorial]
 ---
