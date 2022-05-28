@@ -1,4 +1,4 @@
-I"¦/<div class="container">
+I"‘/<div class="container">
     
 
     
@@ -41,7 +41,7 @@
                 
                 <div class="col-md-4">
                 <a href="/jekyll/tutorial/powerful-things-markdown-editor/">
-                 <img class="w-100" src="http://localhost:4000/assets/images/bicycle.jpg" alt="Powerful things you can do with the Markdown editor" />
+                 <img class="w-100" src="/assets/images/bicycle.jpg" alt="Powerful things you can do with the Markdown editor" />
                 </a>
                 </div>
                                 
