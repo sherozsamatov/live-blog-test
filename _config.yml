@@ -4,7 +4,7 @@ description: "Welcome to my personal blog! Here I will do my best to document my
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/live-blog-test'
-url: ''
+url: 'sherozsamatov.github.io'
 disqus: ''
 email: 'sherozonline@gmail.com'
 mailchimp-list: ''
