@@ -7,8 +7,8 @@ At the moment I am learning Jekyll, Liquid, YAML and Shopify in order to start f
 The main goal is to expose myself to the programming community and learn as I go."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/'
-url: 'sherozsamatov.github.io'
+baseurl: ''
+url: ''
 disqus: ''
 email: 'sherozonline@gmail.com'
 mailchimp-list: ''
